@@ -1,0 +1,4 @@
+My New Txt File
+Ali Edit the new file.
+
+We are woring on newfile.txt for cleaning my code.
