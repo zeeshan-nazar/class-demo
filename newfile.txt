@@ -1,2 +1,8 @@
 My New Txt File
+<<<<<<< HEAD
 Sara Edit the new file.
+=======
+Ali Edit the new file.
+
+We are woring on newfile.txt for cleaning my code.
+>>>>>>> ali
