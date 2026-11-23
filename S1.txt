@@ -4,3 +4,5 @@ My first file.
 Sara Changes in First file.
 
 Sara added somecode int first file.
+
+Sara is waiting to resolve conflict.
